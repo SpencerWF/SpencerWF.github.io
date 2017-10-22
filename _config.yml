@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Spencer Walker-Fooks
+twitter_username: 3DSpencer
+name: Spencer Walker-Fooks
 
 # Build settings
 markdown: kramdown
@@ -9,102 +9,56 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: http://automateddeveloper.blogspot.com/
  - title: GitHub
-   url: https://github.com/robhinds
- - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://github.com/SpencerWF
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: https://www.linkedin.com/pub/Spencer-Walker-Fooks
 
 #Any buzzword skills you want to include
 skills:
- - Groovy
- - Spring MVC
- - Spring Boot
- - Gradle
- - Java
- - JPA
- - SQL
- - REST
- - Tech Architecture
-
-#Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default?alt=rss
+ - C++
+ - Python
+ - 3D Printing
+ - Computer Aided Design (CAD)
+ - Robotics
+ - Wireless Sensor Network
+ - Ebedded System Design
+ - Rapid Prototyping
 
 #Work experience is required
 roles:
- - title: Senior Engineer
+ - title: Mechatronics Engineer
    start: 2016
    end: Ongoing
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
+   employer: BioCarbon Engineering
+   description: BioCarbon Engineering(BCE) is an ecosystem restoration startup which utilizes drone technology for ecosystem restoration.  BCE provides planting, mapping and monitoring services from drones as a scalable solution for ecosystem restoration.  I am a mechatronic engineer working with a close-knit engineering team to develop custom drone and payload solutions at BioCarbon Engineering.
+ - title: Owner, CAD Developer
+   start: 2014
    end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> I am a senior engineer working closely with the CTO, working across the full-stack, I am involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: A range of functional and technical roles, primarily working on client sites in Financial Services.
+   employer: Self-Employed
+   description: I bought a Solidoodle 2 3d printer. I then spent some months learning the technology and gaining skills in the 'craft' of designing and constructing unique items with the 3D Printer. Since then I have been designing, printing and selling parts for other engineering students, for their university projects or otherwise, at a profit. The UQ Engineering Library has learnt of my little business and, due to their much higher capacity printer, has also commenced this business and is more competitive on price than me. But I am now working on ways to be more cost effective. Through this I am learning some basics of business operation and how competition can create a need for being at the cutting edge and producing outcomes before and better than your competitors.
+ - title: Engineering Trainee
+   start: Nov 2014
+   end: Dec 2014
+   employer: Comino Management Services Pty Ltd
+   description: My primary task at Comino Management Services Pty Ltd was the upgrading and management of a dragline motors database for one of their clients. While this wasn’t a particularly difficult task, due to already having a extensive prior programming experience, it was very different to the work I had previously undertaken at Protech Power. The central issue was to gain understanding of the desired outcome of the database and using my engineering experience to ensure the database was maintained in the most effective way to ensure use of the database by engineers was most effective. Through this process I gained experience in engineering thinking in the real world and how to apply engineering in a practical and proficient manner.
+
+ - title: Electrician's Assistant
+   start: Nov 2013
+   end: Dec 2013
+   employer: Protech Power
+   description: During my second time at Protech Power, I was repurposing a number of fixed power supplies (AC and DC) for testing purposes on other projects. The fixed power supplies were to be setup together so that they could be used in coordination, in effect developing a variable power supply (VPS) with a much larger current flow capability than a conventional VPS. The central issue I encountered with this project was to ensure the different supplies were easy and safe to connect and disconnect when changing the used voltage. I accomplished this with some advice from more experienced engineers at the company, and ensuring that where any electrical connection occurs there was full insulation and ensuring appropriate labeling was used.
+ - title: Trademan's Assistant
+   start: March 2011
+   end: Dec 2011
+   employer: Protech Power
+   description: At this job I mainly focused on two rolls, for the first 3 months I primarily working as an electrician’s assistant. In this roll I worked with the electricians at Protech Power, carrying out Protection Relay Testing, Installation of Gas Insulated Switchgear, Cable Termination, Cable Tray Installation, and Cable Identification and Labelling, all for train line demountables. 
+work involved coordinating with different engineers (4) and tradesmen (20), assisting in matching personalities, work styles and desired outcomes. This taught me to be very adaptable with different people you are working with and to identify and coordinated different people's approaches to work. The result expansion of my skills to solve problems in many different approaches and adapting to the most effective approach.
+The remaining 7 months of my time at Protech Power was spent coordinating with the electrical engineers to writing an automated system of protection relay test plans for a Doble F6150 ProTest program. The largest difficulty in this process was learning a new programming interface that I hadn’t utilized previously and finding proficiency in operating the programme to achieve desired outcomes in required time frames. In order to handle this I ran through each of the previously developed test plans for other relays, in order to learn the language and come up with plans on how to improve the current test format. This resulted in me being able to develop a large number of effective relay performance tests.
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
-
-#This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-   courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
-
-#List of interesting Github repo/projects to include - optional
-github:
- - robhinds/learning-neural-networks
- - robhinds/akka-http-rest-api-sample
- - robhinds/twitter-sentiment-analysis
- - robhinds/spring-reactor-twitter
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/food2vec
- - robhinds/SpringMongoIntegrationExample
- - robhinds/SpringNeo4JWebApp
- - robhinds/AndroidChuckQuiz
- - robhinds/AndroidRssReader
-
-#Stackoverflow flair is optional
-stackoverflow:
-   profileurl: http://stackoverflow.com/users/258813/rhinds
-   flairimageurl: http://stackoverflow.com/users/flair/258813.png
-
-#Mobile apps section is optional
-apps:
- - name: Chuck the Quiz
-   platform: Android
-   url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
-   description: A basic early Android app (open sourced)
-
-#An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
-   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others.  In my current role Groovy is the primary language used - and I am familiar with many of the languages features and quirks (including writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>). <br/><br/>
-   <strong>Web Development</strong>: My server side web development experience has largely been based on the Spring MVC framework (although current role uses ColdFusion for server side web stack). I have also worked with some client side technology, having used jQuery, Bootstrap, LESS, SASS and have also experimented with other interesting technologies such as Backbone/Underscore/Require.<br/><br/>
-   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
-   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/Parse. <br/><br/>
-   As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="http://projects.spring.io/spring-social/">http://projects.spring.io/spring-social/</a>. <br/><br/>
-   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="http://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
+ - level: Bachelor of Engineering (B.Eng.)
+   date: 2012
+   subject: Mechatronics, Robotics, and Automation Engineering
+   school: University of Queensland
