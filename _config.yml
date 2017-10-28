@@ -61,3 +61,10 @@ education:
    date: 2012
    subject: Mechatronics, Robotics, and Automation Engineering
    school: University of Queensland
+
+#Github Projects
+Github:
+ - SpencerWF/METR4810_Spencer
+ - SpencerWF/Elec4630_Spencer
+ - SpencerWF/CustomFunctions
+
