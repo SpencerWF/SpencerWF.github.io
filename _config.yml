@@ -30,13 +30,13 @@ skills:
 #Work experience is required
 roles:
  - title: Mechatronics Engineer
-   start: 2016
+   start: Sep 2016
    end: Ongoing
    employer: BioCarbon Engineering
    description: BioCarbon Engineering(BCE) is an ecosystem restoration startup which utilizes drone technology for ecosystem restoration.  BCE provides planting, mapping and monitoring services from drones as a scalable solution for ecosystem restoration.  I am a mechatronic engineer working with a close-knit engineering team to develop custom drone and payload solutions at BioCarbon Engineering.
  - title: Owner, CAD Developer
-   start: 2014
-   end: 2016
+   start: Jan 2014
+   end: May 2016
    employer: Self-Employed
    description: I bought a Solidoodle 2 3d printer. I then spent some months learning the technology and gaining skills in the 'craft' of designing and constructing unique items with the 3D Printer. Since then I have been designing, printing and selling parts for other engineering students, for their university projects or otherwise, at a profit. The UQ Engineering Library has learnt of my little business and, due to their much higher capacity printer, has also commenced this business and is more competitive on price than me. But I am now working on ways to be more cost effective. Through this I am learning some basics of business operation and how competition can create a need for being at the cutting edge and producing outcomes before and better than your competitors.
  - title: Engineering Trainee
@@ -66,7 +66,7 @@ education:
  - level: Certificate
    date: 2016
    subject: New Ventures Leadership
-   school: MIT
+   school: Massachusetts Institute of Technology
 
 edx.org:
    courses:
