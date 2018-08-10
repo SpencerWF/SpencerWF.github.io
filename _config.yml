@@ -29,9 +29,16 @@ skills:
 
 #Work experience is required
 roles:
+ - title: Advisor, Contract
+   start: Dec 2017
+   end: Ongoing
+   employer: GulfGCD, Oman
+• Working with the founders in business development, and strategy for the very beginning of a start-up
+company.
+• Developing and incorporating new technologies into business flow.
  - title: Product Lead
    start: Sep 2016
-   end: Ongoing
+   end: May 2018
    employer: BioCarbon Engineering
    description: 
 • Started working with the firm as a Mechatronics Engineer, collaborating with a close-knit engineering team to develop custom drone and payload solutions at this ecosystem restoration start-up;
@@ -43,24 +50,35 @@ roles:
    start: Jan 2014
    end: May 2016
    employer: Self-Employed
-   description: I bought a Solidoodle 2 3d printer. I then spent some months learning the technology and gaining skills in the 'craft' of designing and constructing unique items with the 3D Printer. Since then I have been designing, printing and selling parts for other engineering students, for their university projects or otherwise, at a profit. The UQ Engineering Library has learnt of my little business and, due to their much higher capacity printer, has also commenced this business and is more competitive on price than me. But I am now working on ways to be more cost effective. Through this I am learning some basics of business operation and how competition can create a need for being at the cutting edge and producing outcomes before and better than your competitors.
+   description: 
+• Designed, printed and sold parts for engineering students using a Solidoodle 2 3D printer;
+• Managed all aspects of the business, from financing and business development through to marketing and customer relations, as well as conducting competitor analysis.
  - title: Engineering Trainee
    start: Nov 2014
    end: Dec 2014
    employer: Comino Management Services Pty Ltd
-   description: My primary task at Comino Management Services Pty Ltd was the upgrading and management of a dragline motors database (Database Management) for one of their clients. While this wasn’t a particularly difficult task, due to already having a extensive prior programming experience, it was very different to the work I had previously undertaken at Protech Power. The central issue was to gain understanding of the desired outcome of the database and using my engineering experience to ensure the database was maintained in the most effective way to ensure use of the database by engineers was most effective. Through this process I gained experience in engineering thinking in the real world and how to apply engineering in a practical and proficient manner.  
-
+   description: 
+• Upgraded and managed a dragline motors database for one of the company’s clients (Database Management);
+• Gained an understanding of the desired outcome of the database to ensure the database was maintained in the most effective way and that the use of the database by engineers was most effective.
  - title: Electrician's Assistant
    start: Nov 2013
    end: Dec 2013
    employer: Protech Power
-   description: During my second time at Protech Power, I was repurposing a number of fixed power supplies (AC and DC) for testing purposes on other projects. The fixed power supplies were to be setup together so that they could be used in coordination, in effect developing a variable power supply (VPS) with a much larger current flow capability than a conventional VPS. The central issue I encountered with this project was to ensure the different supplies were easy and safe to connect and disconnect when changing the used voltage. I accomplished this with some advice from more experienced engineers at the company, and ensuring that where any electrical connection occurs there was full insulation and ensuring appropriate labeling was used.
+   description:
+• Repurposed a number of fixed power supplies (AC and DC) for testing purposes on other projects;
+• Setup fixed power supplies together so that they could be used in coordination, developing a variable power
+supply (VPS) with a much larger current flow capability than a conventional VPS;
+• Collaborated with Senior Engineers to ensure full insulation and appropriate labelling was used where required.
  - title: Trademan's Assistant
    start: March 2011
    end: Dec 2011
    employer: Protech Power
-   description: At this job I mainly focused on two rolls, for the first 3 months I primarily working as an electrician’s assistant. In this roll I worked with the electricians at Protech Power, carrying out Protection Relay Testing, Installation of Gas Insulated Switchgear, Cable Termination, Cable Tray Installation, and Cable Identification and Labelling, all for train line demountables. 
-   description: Work involved coordinating with different engineers (4) and tradesmen (20), assisting in matching personalities, work styles and desired outcomes. This taught me to be very adaptable with different people you are working with and to identify and coordinated different people's approaches to work. The result expansion of my skills to solve problems in many different approaches and adapting to the most effective approach.
+   description:
+• Worked with the electricians to conduct Protection Relay Testing, Installation of Gas Insulated Switchgear,
+Cable Termination, Cable Tray Installation, Cable Identification and Labelling for train line demountables;
+• Liaised with a team of 4 engineers and 20 tradesmen to ensure that work is coordinated effectively;
+• Coordinated with Electrical Engineers to write an automated system of protection relay test plans for a Doble
+F6150 ProTest program, learning a new programming interface to achieve the desired outcomes;
 
 #Education is required
 education:
