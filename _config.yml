@@ -29,11 +29,16 @@ skills:
 
 #Work experience is required
 roles:
- - title: Mechatronics Engineer
+ - title: Product Lead
    start: Sep 2016
    end: Ongoing
    employer: BioCarbon Engineering
-   description: BioCarbon Engineering(BCE) is an ecosystem restoration startup which utilizes drone technology for ecosystem restoration.  BCE provides planting, mapping and monitoring services from drones as a scalable solution for ecosystem restoration.  I am a mechatronic engineer working with a close-knit engineering team to develop custom drone and payload solutions at BioCarbon Engineering.  During this work I developed python software for the control of our drone payload systems.  These the use of Test-Driven Development (UnitTest) and source control (BitBucket).  Additionally I developed Computer Vision Software (OpenCV) to determine best plant locations for the payload systems.
+   description: 
+• Started working with the firm as a Mechatronics Engineer, collaborating with a close-knit engineering team to develop custom drone and payload solutions at this ecosystem restoration start-up;
+• Promoted to Product Lead in 2017, responsible for managing the design, development and timeline of the engineering team in developing new technologies for the company;
+• Custom payload solutions required embedded python development on Raspberry Pi and Atmel Microcontrollers;
+• Development of Computer Vision Solutions (OpenCV3) for payload decision making;
+• Communicate with clients and the sales team to determine what technologies clients would value and ensuring they align with the requirements of the plant science team.
  - title: Owner, CAD Developer
    start: Jan 2014
    end: May 2016
