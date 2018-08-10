@@ -33,9 +33,8 @@ roles:
    start: Dec 2017
    end: Ongoing
    employer: GulfGCD, Oman
-• Working with the founders in business development, and strategy for the very beginning of a start-up
-company.
-• Developing and incorporating new technologies into business flow.
+   description: Working with the founders in business development, and strategy for the very beginning of a start-up
+company. Developing and incorporating new technologies into business flow.
  - title: Product Lead
    start: Sep 2016
    end: May 2018
@@ -50,35 +49,22 @@ company.
    start: Jan 2014
    end: May 2016
    employer: Self-Employed
-   description: 
-• Designed, printed and sold parts for engineering students using a Solidoodle 2 3D printer;
-• Managed all aspects of the business, from financing and business development through to marketing and customer relations, as well as conducting competitor analysis.
+   description: Designed, printed and sold parts for engineering students using a Solidoodle 2 3D printer. Managed all aspects of the business, from financing and business development through to marketing and customer relations, as well as conducting competitor analysis.
  - title: Engineering Trainee
    start: Nov 2014
    end: Dec 2014
    employer: Comino Management Services Pty Ltd
-   description: 
-• Upgraded and managed a dragline motors database for one of the company’s clients (Database Management);
-• Gained an understanding of the desired outcome of the database to ensure the database was maintained in the most effective way and that the use of the database by engineers was most effective.
+   description: Upgraded and managed a dragline motors database for one of the company’s clients (Database Management). Gained an understanding of the desired outcome of the database to ensure the database was maintained in the most effective way and that the use of the database by engineers was most effective.
  - title: Electrician's Assistant
    start: Nov 2013
    end: Dec 2013
    employer: Protech Power
-   description:
-• Repurposed a number of fixed power supplies (AC and DC) for testing purposes on other projects;
-• Setup fixed power supplies together so that they could be used in coordination, developing a variable power
-supply (VPS) with a much larger current flow capability than a conventional VPS;
-• Collaborated with Senior Engineers to ensure full insulation and appropriate labelling was used where required.
+   description: Repurposed a number of fixed power supplies (AC and DC) for testing purposes on other projects. Setup fixed power supplies together so that they could be used in coordination, developing a variable power supply (VPS) with a much larger current flow capability than a conventional VPS. Collaborated with Senior Engineers to ensure full insulation and appropriate labelling was used where required.
  - title: Trademan's Assistant
    start: March 2011
    end: Dec 2011
    employer: Protech Power
-   description:
-• Worked with the electricians to conduct Protection Relay Testing, Installation of Gas Insulated Switchgear,
-Cable Termination, Cable Tray Installation, Cable Identification and Labelling for train line demountables;
-• Liaised with a team of 4 engineers and 20 tradesmen to ensure that work is coordinated effectively;
-• Coordinated with Electrical Engineers to write an automated system of protection relay test plans for a Doble
-F6150 ProTest program, learning a new programming interface to achieve the desired outcomes;
+   description: Worked with the electricians to conduct Protection Relay Testing, Installation of Gas Insulated Switchgear, Cable Termination, Cable Tray Installation, Cable Identification and Labelling for train line demountables. Liaised with a team of 4 engineers and 20 tradesmen to ensure that work is coordinated effectively. Coordinated with Electrical Engineers to write an automated system of protection relay test plans for a Doble F6150 ProTest program, learning a new programming interface to achieve the desired outcomes.
 
 #Education is required
 education:
