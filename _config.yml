@@ -16,16 +16,16 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - C++
+ - Pylint
  - Python
- - 3D Printing
- - Computer Aided Design (CAD)
- - Robotics
- - Wireless Sensor Network
- - Ebedded System Design
- - Rapid Prototyping
- - Blockchain Development
- - Computer Vision Development
+ - Git
+ - UnitTest
+ - Test-Driven Development
+ - Embedded Software Development
+ - Wireless Sensor Networks
+ - Embedded System Design
+ - I2C, SPI, UART communication protocals
+ - Computer Vision Development (OpenCV)
 
 #Work experience is required
 roles:
@@ -33,7 +33,7 @@ roles:
    start: Sep 2016
    end: Ongoing
    employer: BioCarbon Engineering
-   description: BioCarbon Engineering(BCE) is an ecosystem restoration startup which utilizes drone technology for ecosystem restoration.  BCE provides planting, mapping and monitoring services from drones as a scalable solution for ecosystem restoration.  I am a mechatronic engineer working with a close-knit engineering team to develop custom drone and payload solutions at BioCarbon Engineering.
+   description: BioCarbon Engineering(BCE) is an ecosystem restoration startup which utilizes drone technology for ecosystem restoration.  BCE provides planting, mapping and monitoring services from drones as a scalable solution for ecosystem restoration.  I am a mechatronic engineer working with a close-knit engineering team to develop custom drone and payload solutions at BioCarbon Engineering.  During this work I developed python software for the control of our drone payload systems.  These the use of Test-Driven Development (UnitTest) and source control (BitBucket).  Additionally I developed Computer Vision Software (OpenCV) to determine best plant locations for the payload systems.
  - title: Owner, CAD Developer
    start: Jan 2014
    end: May 2016
@@ -43,7 +43,7 @@ roles:
    start: Nov 2014
    end: Dec 2014
    employer: Comino Management Services Pty Ltd
-   description: My primary task at Comino Management Services Pty Ltd was the upgrading and management of a dragline motors database for one of their clients. While this wasn’t a particularly difficult task, due to already having a extensive prior programming experience, it was very different to the work I had previously undertaken at Protech Power. The central issue was to gain understanding of the desired outcome of the database and using my engineering experience to ensure the database was maintained in the most effective way to ensure use of the database by engineers was most effective. Through this process I gained experience in engineering thinking in the real world and how to apply engineering in a practical and proficient manner.
+   description: My primary task at Comino Management Services Pty Ltd was the upgrading and management of a dragline motors database (Database Management) for one of their clients. While this wasn’t a particularly difficult task, due to already having a extensive prior programming experience, it was very different to the work I had previously undertaken at Protech Power. The central issue was to gain understanding of the desired outcome of the database and using my engineering experience to ensure the database was maintained in the most effective way to ensure use of the database by engineers was most effective. Through this process I gained experience in engineering thinking in the real world and how to apply engineering in a practical and proficient manner.  
 
  - title: Electrician's Assistant
    start: Nov 2013
@@ -72,6 +72,13 @@ edx.org:
    courses:
     - title: Blockchain for Business
       link: https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x
+
+udemy:
+   courses:
+    - title: Complete Python Bootcamp
+      link: https://www.udemy.com/complete-python-bootcamp/learn/v4/overview
+   courses:
+    - title: Master Computer Vision OpenCV3 in Python & Machine Learning
 
 
 #Github Projects
