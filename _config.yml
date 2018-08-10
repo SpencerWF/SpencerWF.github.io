@@ -33,18 +33,12 @@ roles:
    start: Dec 2017
    end: Ongoing
    employer: GulfGCD, Oman
-   description: Working with the founders in business development, and strategy for the very beginning of a start-up
-company. Developing and incorporating new technologies into business flow.
+   description: Working with the founders in business development, and strategy for the very beginning of a start-up company. Developing and incorporating new technologies into business flow.
  - title: Product Lead
    start: Sep 2016
    end: May 2018
    employer: BioCarbon Engineering
-   description: 
-• Started working with the firm as a Mechatronics Engineer, collaborating with a close-knit engineering team to develop custom drone and payload solutions at this ecosystem restoration start-up;
-• Promoted to Product Lead in 2017, responsible for managing the design, development and timeline of the engineering team in developing new technologies for the company;
-• Custom payload solutions required embedded python development on Raspberry Pi and Atmel Microcontrollers;
-• Development of Computer Vision Solutions (OpenCV3) for payload decision making;
-• Communicate with clients and the sales team to determine what technologies clients would value and ensuring they align with the requirements of the plant science team.
+   description: Started working with the firm as a Mechatronics Engineer, collaborating with a close-knit engineering team to develop custom drone and payload solutions at this ecosystem restoration start-up. Promoted to Product Lead in 2017, responsible for managing the design, development and timeline of the engineering team in developing new technologies for the company.  Custom payload solutions required embedded python development on Raspberry Pi and Atmel Microcontrollers. Development of Computer Vision Solutions (OpenCV3) for payload decision making. Communicate with clients and the sales team to determine what technologies clients would value and ensuring they align with the requirements of the plant science team.
  - title: Owner, CAD Developer
    start: Jan 2014
    end: May 2016
